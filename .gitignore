@@ -1,0 +1,318 @@
+
+*.m
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Private/GDTCCTCompressionHelper.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Private/GDTCCTNanopbHelpers.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Private/GDTCCTUploader.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Protogen/nanopb/cct.nanopb.c
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Protogen/nanopb/cct.nanopb.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCCTLibrary/Public/GDTCOREvent+GDTCCTSupport.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORAssert.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORDirectorySizeTracker.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORLifecycle.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORPlatform.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORReachability.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORRegistrar.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORStorageEventSelector.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORStorageProtocol.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GDTCORUploader.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Internal/GoogleDataTransportInternal.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCOREndpoints_Private.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCOREvent_Private.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORFlatFileStorage.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORReachability_Private.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORRegistrar_Private.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORTransformer.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORTransformer_Private.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORTransport_Private.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Private/GDTCORUploadCoordinator.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORClock.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORConsoleLogger.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREndpoints.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREvent.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREventDataObject.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCOREventTransformer.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORTargets.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GDTCORTransport.h
+Pods/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GoogleDataTransport.h
+Pods/GoogleDataTransport/LICENSE
+Pods/GoogleDataTransport/README.md
+Pods/GoogleMLKit/MLKitCore/NOTICES
+Pods/GoogleMLKit/MLKitCore/Sources/MLKit.h
+Pods/GoogleMLKit/MLKitCore/Sources/module.modulemap
+Pods/GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h
+Pods/GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h
+Pods/GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h
+Pods/GoogleToolboxForMac/Foundation/GTMLogger.h
+Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h
+Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h
+Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h
+Pods/GoogleToolboxForMac/GTMDefines.h
+Pods/GoogleToolboxForMac/LICENSE
+Pods/GoogleToolboxForMac/README.md
+Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h
+Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorage.h
+Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainStorage.h
+Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainUtils.h
+Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULSecureCoding.h
+Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULURLSessionDataResponse.h
+Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/NSURLSession+GULPromises.h
+Pods/GoogleUtilities/GoogleUtilities/LICENSE
+Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h
+Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h
+Pods/GoogleUtilities/GoogleUtilities/UserDefaults/Public/GoogleUtilities/GULUserDefaults.h
+Pods/GoogleUtilities/README.md
+Pods/GoogleUtilitiesComponents/GoogleUtilitiesComponents/Sources/Private/GULCCComponentContainerInternal.h
+Pods/GoogleUtilitiesComponents/GoogleUtilitiesComponents/Sources/Public/GULCCComponent.h
+Pods/GoogleUtilitiesComponents/GoogleUtilitiesComponents/Sources/Public/GULCCComponentContainer.h
+Pods/GoogleUtilitiesComponents/GoogleUtilitiesComponents/Sources/Public/GULCCComponentType.h
+Pods/GoogleUtilitiesComponents/GoogleUtilitiesComponents/Sources/Public/GULCCDependency.h
+Pods/GoogleUtilitiesComponents/GoogleUtilitiesComponents/Sources/Public/GULCCLibrary.h
+Pods/GoogleUtilitiesComponents/LICENSE
+Pods/GoogleUtilitiesComponents/README.md
+Pods/GTMSessionFetcher/LICENSE
+Pods/GTMSessionFetcher/README.md
+Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h
+Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h
+Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h
+Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h
+Pods/Headers/Private/GoogleMLKit/MLKit.h
+Pods/Headers/Public/GoogleMLKit/MLKit.h
+Pods/Manifest.lock
+Pods/MLKitCommon/CHANGELOG.md
+Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKCustomRemoteModel.h
+Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKitCommon.h
+Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKLocalModel+Custom.h
+Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKLocalModel.h
+Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKModelDownloadConditions.h
+Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKModelDownloadNotifications.h
+Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKModelManager.h
+Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKRemoteModel.h
+Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Headers/MLKRemoteModelSource.h
+Pods/MLKitCommon/Frameworks/MLKitCommon.framework/MLKitCommon
+Pods/MLKitCommon/Frameworks/MLKitCommon.framework/Modules/module.modulemap
+Pods/MLKitCommon/NOTICES
+Pods/MLKitCommon/README.md
+Pods/MLKitFaceDetection/CHANGELOG.md
+Pods/MLKitFaceDetection/Frameworks/MLKitFaceDetection.framework/Headers/MLKFace.h
+Pods/MLKitFaceDetection/Frameworks/MLKitFaceDetection.framework/Headers/MLKFaceContour.h
+Pods/MLKitFaceDetection/Frameworks/MLKitFaceDetection.framework/Headers/MLKFaceDetector.h
+Pods/MLKitFaceDetection/Frameworks/MLKitFaceDetection.framework/Headers/MLKFaceDetectorOptions.h
+Pods/MLKitFaceDetection/Frameworks/MLKitFaceDetection.framework/Headers/MLKFaceLandmark.h
+Pods/MLKitFaceDetection/Frameworks/MLKitFaceDetection.framework/Headers/MLKitFaceDetection.h
+Pods/MLKitFaceDetection/Frameworks/MLKitFaceDetection.framework/MLKitFaceDetection
+Pods/MLKitFaceDetection/Frameworks/MLKitFaceDetection.framework/Modules/module.modulemap
+Pods/MLKitFaceDetection/NOTICES
+Pods/MLKitFaceDetection/README.md
+Pods/MLKitFaceDetection/Resources/GoogleMVFaceDetectorResources/BCLjoy_200.emd
+Pods/MLKitFaceDetection/Resources/GoogleMVFaceDetectorResources/BCLlefteyeclosed_200.emd
+Pods/MLKitFaceDetection/Resources/GoogleMVFaceDetectorResources/BCLrighteyeclosed_200.emd
+Pods/MLKitFaceDetection/Resources/GoogleMVFaceDetectorResources/blazeface.tfl
+Pods/MLKitFaceDetection/Resources/GoogleMVFaceDetectorResources/contours.tfl
+Pods/MLKitFaceDetection/Resources/GoogleMVFaceDetectorResources/fssd_100_8bit_gray_v1.tflite
+Pods/MLKitFaceDetection/Resources/GoogleMVFaceDetectorResources/fssd_100_8bit_v1.tflite
+Pods/MLKitFaceDetection/Resources/GoogleMVFaceDetectorResources/fssd_25_8bit_gray_v1.tflite
+Pods/MLKitFaceDetection/Resources/GoogleMVFaceDetectorResources/fssd_25_8bit_v1.tflite
+Pods/MLKitFaceDetection/Resources/GoogleMVFaceDetectorResources/LMprec_600.emd
+Pods/MLKitFaceDetection/Resources/GoogleMVFaceDetectorResources/MFT_fssd_accgray.pb
+Pods/MLKitFaceDetection/Resources/GoogleMVFaceDetectorResources/MFT_fssd_fastgray.pb
+Pods/MLKitVision/CHANGELOG.md
+Pods/MLKitVision/Frameworks/MLKitVision.framework/Headers/MLKitVision.h
+Pods/MLKitVision/Frameworks/MLKitVision.framework/Headers/MLKVisionImage.h
+Pods/MLKitVision/Frameworks/MLKitVision.framework/Headers/MLKVisionPoint.h
+Pods/MLKitVision/Frameworks/MLKitVision.framework/MLKitVision
+Pods/MLKitVision/Frameworks/MLKitVision.framework/Modules/module.modulemap
+Pods/MLKitVision/NOTICES
+Pods/MLKitVision/README.md
+Pods/nanopb/LICENSE.txt
+Pods/nanopb/pb.h
+Pods/nanopb/pb_common.c
+Pods/nanopb/pb_common.h
+Pods/nanopb/pb_decode.c
+Pods/nanopb/pb_decode.h
+Pods/nanopb/pb_encode.c
+Pods/nanopb/pb_encode.h
+Pods/nanopb/README.md
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/GoogleDataTransport.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/GoogleMLKit.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/GoogleToolboxForMac.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/GoogleUtilities.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/GoogleUtilitiesComponents.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/GTMSessionFetcher.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/MLKitCommon.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/MLKitFaceDetection-GoogleMVFaceDetectorResources.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/MLKitFaceDetection.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/MLKitVision.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/nanopb.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/Pods-FaceRecognition.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/PromisesObjC.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/Protobuf.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/TensorFlowLiteC.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/TensorFlowLiteSwift.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/nkoertge.xcuserdatad/xcschemes/xcschememanagement.plist
+Pods/PromisesObjC/LICENSE
+Pods/PromisesObjC/README.md
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Testing.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromisePrivate.h
+Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h
+Pods/Protobuf/LICENSE
+Pods/Protobuf/objectivec/google/protobuf/Any.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Api.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Duration.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Empty.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/FieldMask.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/SourceContext.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Struct.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Timestamp.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Type.pbobjc.h
+Pods/Protobuf/objectivec/google/protobuf/Wrappers.pbobjc.h
+Pods/Protobuf/objectivec/GPBAny.pbobjc.h
+Pods/Protobuf/objectivec/GPBApi.pbobjc.h
+Pods/Protobuf/objectivec/GPBArray.h
+Pods/Protobuf/objectivec/GPBArray_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBBootstrap.h
+Pods/Protobuf/objectivec/GPBCodedInputStream.h
+Pods/Protobuf/objectivec/GPBCodedInputStream_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBCodedOutputStream.h
+Pods/Protobuf/objectivec/GPBCodedOutputStream_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBDescriptor.h
+Pods/Protobuf/objectivec/GPBDescriptor_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBDictionary.h
+Pods/Protobuf/objectivec/GPBDictionary_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBDuration.pbobjc.h
+Pods/Protobuf/objectivec/GPBEmpty.pbobjc.h
+Pods/Protobuf/objectivec/GPBExtensionInternals.h
+Pods/Protobuf/objectivec/GPBExtensionRegistry.h
+Pods/Protobuf/objectivec/GPBFieldMask.pbobjc.h
+Pods/Protobuf/objectivec/GPBMessage.h
+Pods/Protobuf/objectivec/GPBMessage_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBProtocolBuffers.h
+Pods/Protobuf/objectivec/GPBProtocolBuffers_RuntimeSupport.h
+Pods/Protobuf/objectivec/GPBRootObject.h
+Pods/Protobuf/objectivec/GPBRootObject_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBRuntimeTypes.h
+Pods/Protobuf/objectivec/GPBSourceContext.pbobjc.h
+Pods/Protobuf/objectivec/GPBStruct.pbobjc.h
+Pods/Protobuf/objectivec/GPBTimestamp.pbobjc.h
+Pods/Protobuf/objectivec/GPBType.pbobjc.h
+Pods/Protobuf/objectivec/GPBUnknownField.h
+Pods/Protobuf/objectivec/GPBUnknownField_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBUnknownFieldSet.h
+Pods/Protobuf/objectivec/GPBUnknownFieldSet_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBUtilities.h
+Pods/Protobuf/objectivec/GPBUtilities_PackagePrivate.h
+Pods/Protobuf/objectivec/GPBWellKnownTypes.h
+Pods/Protobuf/objectivec/GPBWireFormat.h
+Pods/Protobuf/objectivec/GPBWrappers.pbobjc.h
+Pods/Protobuf/README.md
+Pods/Target Support Files/GoogleDataTransport/GoogleDataTransport-Info.plist
+Pods/Target Support Files/GoogleDataTransport/GoogleDataTransport-umbrella.h
+Pods/Target Support Files/GoogleDataTransport/GoogleDataTransport.debug.xcconfig
+Pods/Target Support Files/GoogleDataTransport/GoogleDataTransport.modulemap
+Pods/Target Support Files/GoogleDataTransport/GoogleDataTransport.release.xcconfig
+Pods/Target Support Files/GoogleMLKit/GoogleMLKit.debug.xcconfig
+Pods/Target Support Files/GoogleMLKit/GoogleMLKit.release.xcconfig
+Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-Info.plist
+Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-prefix.pch
+Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h
+Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac.debug.xcconfig
+Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac.modulemap
+Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac.release.xcconfig
+Pods/Target Support Files/GoogleUtilities/GoogleUtilities-Info.plist
+Pods/Target Support Files/GoogleUtilities/GoogleUtilities-umbrella.h
+Pods/Target Support Files/GoogleUtilities/GoogleUtilities.debug.xcconfig
+Pods/Target Support Files/GoogleUtilities/GoogleUtilities.modulemap
+Pods/Target Support Files/GoogleUtilities/GoogleUtilities.release.xcconfig
+Pods/Target Support Files/GoogleUtilitiesComponents/GoogleUtilitiesComponents-Info.plist
+Pods/Target Support Files/GoogleUtilitiesComponents/GoogleUtilitiesComponents-umbrella.h
+Pods/Target Support Files/GoogleUtilitiesComponents/GoogleUtilitiesComponents.debug.xcconfig
+Pods/Target Support Files/GoogleUtilitiesComponents/GoogleUtilitiesComponents.modulemap
+Pods/Target Support Files/GoogleUtilitiesComponents/GoogleUtilitiesComponents.release.xcconfig
+Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-Info.plist
+Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-prefix.pch
+Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h
+Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher.debug.xcconfig
+Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher.modulemap
+Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher.release.xcconfig
+Pods/Target Support Files/MLKitCommon/MLKitCommon.debug.xcconfig
+Pods/Target Support Files/MLKitCommon/MLKitCommon.release.xcconfig
+Pods/Target Support Files/MLKitFaceDetection/MLKitFaceDetection.debug.xcconfig
+Pods/Target Support Files/MLKitFaceDetection/MLKitFaceDetection.release.xcconfig
+Pods/Target Support Files/MLKitFaceDetection/ResourceBundle-GoogleMVFaceDetectorResources-MLKitFaceDetection-Info.plist
+Pods/Target Support Files/MLKitVision/MLKitVision.debug.xcconfig
+Pods/Target Support Files/MLKitVision/MLKitVision.release.xcconfig
+Pods/Target Support Files/nanopb/nanopb-Info.plist
+Pods/Target Support Files/nanopb/nanopb-prefix.pch
+Pods/Target Support Files/nanopb/nanopb-umbrella.h
+Pods/Target Support Files/nanopb/nanopb.debug.xcconfig
+Pods/Target Support Files/nanopb/nanopb.modulemap
+Pods/Target Support Files/nanopb/nanopb.release.xcconfig
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-acknowledgements.markdown
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-acknowledgements.plist
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-frameworks-Debug-input-files.xcfilelist
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-frameworks-Debug-output-files.xcfilelist
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-frameworks-Release-input-files.xcfilelist
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-frameworks-Release-output-files.xcfilelist
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-frameworks.sh
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-Info.plist
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-resources-Debug-input-files.xcfilelist
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-resources-Debug-output-files.xcfilelist
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-resources-Release-input-files.xcfilelist
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-resources-Release-output-files.xcfilelist
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-resources.sh
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition-umbrella.h
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition.debug.xcconfig
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition.modulemap
+Pods/Target Support Files/Pods-FaceRecognition/Pods-FaceRecognition.release.xcconfig
+Pods/Target Support Files/PromisesObjC/PromisesObjC-Info.plist
+Pods/Target Support Files/PromisesObjC/PromisesObjC-umbrella.h
+Pods/Target Support Files/PromisesObjC/PromisesObjC.debug.xcconfig
+Pods/Target Support Files/PromisesObjC/PromisesObjC.modulemap
+Pods/Target Support Files/PromisesObjC/PromisesObjC.release.xcconfig
+Pods/Target Support Files/Protobuf/Protobuf-Info.plist
+Pods/Target Support Files/Protobuf/Protobuf-prefix.pch
+Pods/Target Support Files/Protobuf/Protobuf-umbrella.h
+Pods/Target Support Files/Protobuf/Protobuf.debug.xcconfig
+Pods/Target Support Files/Protobuf/Protobuf.modulemap
+Pods/Target Support Files/Protobuf/Protobuf.release.xcconfig
+Pods/Target Support Files/TensorFlowLiteC/TensorFlowLiteC.debug.xcconfig
+Pods/Target Support Files/TensorFlowLiteC/TensorFlowLiteC.release.xcconfig
+Pods/Target Support Files/TensorFlowLiteSwift/TensorFlowLiteSwift-Info.plist
+Pods/Target Support Files/TensorFlowLiteSwift/TensorFlowLiteSwift-prefix.pch
+Pods/Target Support Files/TensorFlowLiteSwift/TensorFlowLiteSwift-umbrella.h
+Pods/Target Support Files/TensorFlowLiteSwift/TensorFlowLiteSwift.debug.xcconfig
+Pods/Target Support Files/TensorFlowLiteSwift/TensorFlowLiteSwift.modulemap
+Pods/Target Support Files/TensorFlowLiteSwift/TensorFlowLiteSwift.release.xcconfig
+Pods/TensorFlowLiteC/Frameworks/TensorFlowLiteC.framework/Headers/c_api.h
+Pods/TensorFlowLiteC/Frameworks/TensorFlowLiteC.framework/Headers/common.h
+Pods/TensorFlowLiteC/Frameworks/TensorFlowLiteC.framework/Headers/TensorFlowLiteC.h
+Pods/TensorFlowLiteC/Frameworks/TensorFlowLiteC.framework/Headers/xnnpack_delegate.h
+Pods/TensorFlowLiteC/Frameworks/TensorFlowLiteC.framework/Modules/module.modulemap
+Pods/TensorFlowLiteC/Frameworks/TensorFlowLiteC.framework/TensorFlowLiteC
+Pods/TensorFlowLiteSwift/LICENSE
+Pods/TensorFlowLiteSwift/README.md
+Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Delegate.swift
+Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Interpreter.swift
+Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/InterpreterError.swift
+Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Model.swift
+Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/QuantizationParameters.swift
+Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Tensor.swift
+Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/TensorFlowLite.swift
